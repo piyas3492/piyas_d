@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/piyas_d/static/css/main.edea8f21.chunk.css",
+    "main.js": "/piyas_d/static/js/main.18723739.chunk.js",
+    "main.js.map": "/piyas_d/static/js/main.18723739.chunk.js.map",
+    "runtime-main.js": "/piyas_d/static/js/runtime-main.d9123f66.js",
+    "runtime-main.js.map": "/piyas_d/static/js/runtime-main.d9123f66.js.map",
+    "static/css/2.85434254.chunk.css": "/piyas_d/static/css/2.85434254.chunk.css",
+    "static/js/2.db860034.chunk.js": "/piyas_d/static/js/2.db860034.chunk.js",
+    "static/js/2.db860034.chunk.js.map": "/piyas_d/static/js/2.db860034.chunk.js.map",
+    "index.html": "/piyas_d/index.html",
+    "static/css/2.85434254.chunk.css.map": "/piyas_d/static/css/2.85434254.chunk.css.map",
+    "static/css/main.edea8f21.chunk.css.map": "/piyas_d/static/css/main.edea8f21.chunk.css.map",
+    "static/js/2.db860034.chunk.js.LICENSE.txt": "/piyas_d/static/js/2.db860034.chunk.js.LICENSE.txt",
+    "static/media/contact.27150c9c.jpg": "/piyas_d/static/media/contact.27150c9c.jpg",
+    "static/media/error.f59cb8da.png": "/piyas_d/static/media/error.f59cb8da.png",
+    "static/media/loader.696cd6cc.gif": "/piyas_d/static/media/loader.696cd6cc.gif",
+    "static/media/pagenotfound.ea51ee25.png": "/piyas_d/static/media/pagenotfound.ea51ee25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9123f66.js",
+    "static/css/2.85434254.chunk.css",
+    "static/js/2.db860034.chunk.js",
+    "static/css/main.edea8f21.chunk.css",
+    "static/js/main.18723739.chunk.js"
+  ]
+}
