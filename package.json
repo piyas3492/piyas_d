@@ -2,7 +2,7 @@
   "name": "secondapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://piyas3492.github.io/piyas_d",
+  "homepage": "https://piyas3492.github.io/piyas_d",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
